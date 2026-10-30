@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Madjeek-Group/madjeek-image-optimizer/raw/main/madjeek-image-optimizer-js.jpg" alt="madjeek image optimizer js cover" width="100%" height="100%">
+<img src="https://github.com/Madjeek-Group/legacy-image-fallback/raw/main/legacy-image-fallback-img-cover-madjeek.jpg" alt="madjeek legacy image fallback cover" width="100%" height="100%">
 </p>
 
 # Legacy Image Fallback
