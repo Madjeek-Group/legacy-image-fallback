@@ -12,7 +12,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-success)
 ![Version](https://img.shields.io/badge/Version-1.1.0-orange)
 
-> A tiny, universal, dependency-free script that serves a `.jpg` version of your modern images (AVIF, WebP...) to old browsers, with nothing to write in your HTML except a simple `<img>` tag
+> A tiny, universal, dependency-free script that serves a `.jpg` version of your modern images (AVIF, WebP...) to old browsers, with nothing to write in your HTML except a simple `<img>` tag.
 
 ---
 
